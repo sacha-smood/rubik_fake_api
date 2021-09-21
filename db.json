@@ -1,1 +1,11 @@
-{}
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": 1,
+      "title": "Order timer",
+      "content": "It would be great to see how long the current order has been running",
+      "state": "new"
+    }
+  ]
+}
