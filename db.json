@@ -13,22 +13,15 @@
     { "id": 1, "label": "zouzou" },
     { "id": 2, "label": "bilou" }
   ],
-  "users": {
-    "leaders": [
-      { "name": "Jean", "score": 50 },
-      { "name": "Anne", "score": 46 },
-      { "name": "Pierre", "score": 38 },
-      { "name": "Michel", "score": 34 },
-      { "name": "Christine", "score": 33 },
-      { "name": "Paul", "score": 25 },
-      { "name": "Marie", "score": 19 },
-      { "name": "Charlotte", "score": 14 },
-      { "name": "Antoine", "score": 10 },
-      { "name": "Eric", "score": 7 }
-    ],
-    "me": {
-      "name": "Sacha",
-      "score": 5
-    }
+  "users": [
+    { "name": "Jean", "score": 50 },
+    { "name": "Anne", "score": 46 },
+    { "name": "Pierre", "score": 38 },
+    { "name": "Michel", "score": 34 },
+    { "name": "Christine", "score": 33 }
+  ],
+  "users/me": {
+    "name": "Sacha",
+    "score": 5
   }
 }
