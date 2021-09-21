@@ -6,7 +6,8 @@
       "title": "Order timer",
       "content": "It would be great to see how long the current order has been running",
       "category": { "id": 1, "label": "zouzou" },
-      "state": "new"
+      "state": "new",
+      "score": 10
     }
   ],
   "categories": [
