@@ -8,6 +8,15 @@
       "category": { "id": 1, "label": "zouzou" },
       "state": "new",
       "score": 10
+    },
+    {
+      "id": 2,
+      "author": 1,
+      "title": "Say happy birthday to the drivers on their birthday",
+      "content": "It would be nice if there was a happy birthday message on the driver app on the driver birthday",
+      "category": { "id": 1, "label": "zouzou" },
+      "state": "new",
+      "score": -5
     }
   ],
   "categories": [
