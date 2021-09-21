@@ -20,7 +20,7 @@
     { "name": "Michel", "score": 34 },
     { "name": "Christine", "score": 33 }
   ],
-  "users-me": {
+  "users\/me": {
     "name": "Sacha",
     "score": 5
   }
