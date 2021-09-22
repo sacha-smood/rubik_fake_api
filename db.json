@@ -5,7 +5,12 @@
       "author": { "name": "Loïc Fah", "jobTitle": "Customer Care Manager" },
       "title": "Order timer",
       "content": "It would be great to see how long the current order has been running",
-      "category": { "id": 1, "label": "zouzou", "weight": 2 },
+      "category": {
+        "id": "1",
+        "label": "Customer App",
+        "weight": 2,
+        "imgUrl": "assets/img/customer-app.webp"
+      },
       "state": "new",
       "score": 56,
       "createdAt": "2021-09-21",
@@ -21,7 +26,12 @@
       "author": { "name": "Loïc Fah", "jobTitle": "Customer Care Manager" },
       "title": "Say happy birthday to the drivers on their birthday",
       "content": "It would be nice if there was a happy birthday message on the driver app on the driver birthday",
-      "category": { "id": 1, "label": "zouzou", "weight": 1 },
+      "category": {
+        "id": "2",
+        "label": "Driver App",
+        "weight": 1,
+        "imgUrl": "assets/img/driver-app.webp"
+      },
       "state": "new",
       "score": -5,
       "createdAt": "2021-09-20",
@@ -36,7 +46,7 @@
   "categories": [
     {
       "id": "1",
-      "label": "Customer Appp",
+      "label": "Customer App",
       "weight": 2,
       "imgUrl": "assets/img/customer-app.webp"
     },
