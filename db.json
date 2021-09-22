@@ -64,6 +64,11 @@
     { "name": "Michel", "score": 34 },
     { "name": "Christine", "score": 33 }
   ],
+  "activities": [
+    { "createdAt": "2021-09-22T10:00", "title": "Matias: Breakfast fiesta at Villa" },
+    { "createdAt": "2021-09-22T09:45", "title": "Romaine: Servers are down due to MEP" },
+    { "createdAt": "2021-09-22T09:20", "title": "MEP begins!" }
+  ],
   "users-me": {
     "score": 5
   }
