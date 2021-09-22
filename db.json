@@ -34,8 +34,8 @@
     }
   ],
   "categories": [
-    { "id": "1", "label": "zouzou" },
-    { "id": "2", "label": "bilou" }
+    { "id": "1", "label": "zouzou", "weight": 2 },
+    { "id": "2", "label": "bilou", "weight": 1 }
   ],
   "users": [
     { "name": "Jean", "score": 50 },
@@ -46,8 +46,5 @@
   ],
   "users-me": {
     "score": 5
-  },
-  "me": {
-    "weights": [{ "category": "1", "value": 2 }]
   }
 }
