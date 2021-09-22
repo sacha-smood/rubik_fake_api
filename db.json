@@ -38,13 +38,13 @@
       "id": "1",
       "label": "Customer Appp",
       "weight": 2,
-      "imgUrl": "https://play-lh.googleusercontent.com/emKvmroKniUmFfAR8lIz6tFgGmkxX1r3HMw3spfL2pVxwgbWRPAzgq9wziOCjvaUaVsU=s180-rw"
+      "imgUrl": "assets/img/customer-app.webp"
     },
     {
       "id": "2",
       "label": "Driver App",
       "weight": 1,
-      "imgUrl": "https://play-lh.googleusercontent.com/wqt_PdgoLpEu9KTDPC4VSI46Ua9TGEWyVF6raB4AfLNSJsKr0Wc0drchRxhq3I4fK_U=s180-rw"
+      "imgUrl": "assets/img/driver-app.webp"
     }
   ],
   "users": [
