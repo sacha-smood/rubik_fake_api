@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "author": 1,
+      "author": { "name": "Loïc Fah", "jobTitle": "Customer Care Manager" },
       "title": "Order timer",
       "content": "It would be great to see how long the current order has been running",
       "category": { "id": 1, "label": "zouzou" },
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "author": 1,
+      "author": { "name": "Loïc Fah", "jobTitle": "Customer Care Manager" },
       "title": "Say happy birthday to the drivers on their birthday",
       "content": "It would be nice if there was a happy birthday message on the driver app on the driver birthday",
       "category": { "id": 1, "label": "zouzou" },
