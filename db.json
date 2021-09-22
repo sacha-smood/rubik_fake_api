@@ -7,7 +7,8 @@
       "content": "It would be great to see how long the current order has been running",
       "category": { "id": 1, "label": "zouzou" },
       "state": "new",
-      "score": 10
+      "score": 10,
+      "createdAt": "2021-09-21"
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "content": "It would be nice if there was a happy birthday message on the driver app on the driver birthday",
       "category": { "id": 1, "label": "zouzou" },
       "state": "new",
-      "score": -5
+      "score": -5,
+      "createdAt": "2021-09-20"
     }
   ],
   "categories": [
