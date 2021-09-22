@@ -9,9 +9,11 @@
       "state": "new",
       "score": 56,
       "createdAt": "2021-09-21",
-      "votes": {
-        "author": "1"
-      }
+      "votes": [
+        {
+          "author": { "id": "1" }
+        }
+      ]
     },
     {
       "id": 2,
@@ -22,9 +24,11 @@
       "state": "new",
       "score": -5,
       "createdAt": "2021-09-20",
-      "votes": {
-        "author": "1"
-      }
+      "votes": [
+        {
+          "author": { "id": "1" }
+        }
+      ]
     }
   ],
   "categories": [
