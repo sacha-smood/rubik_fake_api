@@ -7,8 +7,11 @@
       "content": "It would be great to see how long the current order has been running",
       "category": { "id": 1, "label": "zouzou" },
       "state": "new",
-      "score": 10,
-      "createdAt": "2021-09-21"
+      "score": 56,
+      "createdAt": "2021-09-21",
+      "votes": {
+        "author": "1"
+      }
     },
     {
       "id": 2,
@@ -18,7 +21,10 @@
       "category": { "id": 1, "label": "zouzou" },
       "state": "new",
       "score": -5,
-      "createdAt": "2021-09-20"
+      "createdAt": "2021-09-20",
+      "votes": {
+        "author": "1"
+      }
     }
   ],
   "categories": [
