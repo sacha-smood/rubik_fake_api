@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "author": { "name": "Loïc Fah", "jobTitle": "Customer Care Manager" },
       "title": "Order timer",
       "content": "It would be great to see how long the current order has been running",
@@ -17,7 +17,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "author": { "name": "Loïc Fah", "jobTitle": "Customer Care Manager" },
       "title": "Say happy birthday to the drivers on their birthday",
       "content": "It would be nice if there was a happy birthday message on the driver app on the driver birthday",
@@ -34,8 +34,8 @@
     }
   ],
   "categories": [
-    { "id": 1, "label": "zouzou" },
-    { "id": 2, "label": "bilou" }
+    { "id": "1", "label": "zouzou" },
+    { "id": "2", "label": "bilou" }
   ],
   "users": [
     { "name": "Jean", "score": 50 },
@@ -46,5 +46,8 @@
   ],
   "users-me": {
     "score": 5
+  },
+  "me": {
+    "weights": [{ "category": "1", "value": 2 }]
   }
 }
