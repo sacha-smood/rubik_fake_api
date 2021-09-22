@@ -11,7 +11,8 @@
       "createdAt": "2021-09-21",
       "votes": [
         {
-          "author": { "id": "1" }
+          "author": { "id": "1" },
+          "value": 2
         }
       ]
     },
@@ -26,7 +27,8 @@
       "createdAt": "2021-09-20",
       "votes": [
         {
-          "author": { "id": "1" }
+          "author": { "id": "1" },
+          "value": -1
         }
       ]
     }
