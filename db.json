@@ -6,7 +6,7 @@
       "title": "Order timer",
       "content": "It would be great to see how long the current order has been running",
       "category": {
-        "id": "1",
+        "id": "614c47c39c1c142e091ace2a",
         "label": "Customer App",
         "weight": 2,
         "imgUrl": "assets/img/customer-app.webp"
@@ -27,7 +27,7 @@
       "title": "Say happy birthday to the drivers on their birthday",
       "content": "It would be nice if there was a happy birthday message on the driver app on the driver birthday",
       "category": {
-        "id": "2",
+        "id": "614c47e237a77865538bcf1e",
         "label": "Driver App",
         "weight": 1,
         "imgUrl": "assets/img/driver-app.webp"
@@ -45,13 +45,13 @@
   ],
   "categories": [
     {
-      "id": "1",
+      "id": "614c47c39c1c142e091ace2a",
       "label": "Customer App",
       "weight": 2,
       "imgUrl": "assets/img/customer-app.webp"
     },
     {
-      "id": "2",
+      "id": "614c47e237a77865538bcf1e",
       "label": "Driver App",
       "weight": 1,
       "imgUrl": "assets/img/driver-app.webp"
